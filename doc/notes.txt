@@ -43,3 +43,12 @@ $ git checkout master
 
 merge branch into master branch:
 $ git merge <branch-name>
+
+delete a branch after a merge:
+$ git branch -d <branch-name>
+
+delete a branch without merging (if you screwed up the branch really bad):
+$ git branch -D <branch-name>
+
+pushes local master branch to the remote repository:
+$ git push
