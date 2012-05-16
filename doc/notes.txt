@@ -1,0 +1,10 @@
+GIT:
+
+initialize a new repository:
+$ git init
+
+ignore file in version control:
+.gitignore file
+
+add files to Git:
+$ git add .
