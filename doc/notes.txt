@@ -37,3 +37,9 @@ $ git branch
 
 same as linux mv command:
 $ git mv
+
+switch to master branch:
+$ git checkout master
+
+merge branch into master branch:
+$ git merge <branch-name>
